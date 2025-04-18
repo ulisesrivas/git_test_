@@ -1,0 +1,1 @@
+"Adding some text for the practice in Git Basics for the Foundation portion of The Odin Project."
